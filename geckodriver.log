@@ -1,0 +1,1183 @@
+1600995462780	geckodriver	INFO	Listening on 127.0.0.1:55423
+1600995462787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1I6fop"
+
+(firefox:14200): Gtk-WARNING **: 01:57:42.863: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:14320): Gtk-WARNING **: 01:57:44.605: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:14339): Gtk-WARNING **: 01:57:44.820: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:14404): Gtk-WARNING **: 01:57:46.581: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600995466845	Marionette	INFO	Listening on port 41487
+1600995466905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600996217991	geckodriver	INFO	Listening on 127.0.0.1:39445
+1600996217998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileumOn7s"
+
+(firefox:15011): Gtk-WARNING **: 02:10:18.051: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15147): Gtk-WARNING **: 02:10:19.765: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15167): Gtk-WARNING **: 02:10:20.009: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:15237): Gtk-WARNING **: 02:10:21.902: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600996222818	Marionette	INFO	Listening on port 38997
+1600996222835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600996226799	geckodriver	INFO	Listening on 127.0.0.1:33121
+1600996226826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHuiZBN"
+
+(firefox:15278): Gtk-WARNING **: 02:10:26.889: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15431): Gtk-WARNING **: 02:10:28.800: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15450): Gtk-WARNING **: 02:10:29.019: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:15517): Gtk-WARNING **: 02:10:30.920: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600996231160	Marionette	INFO	Listening on port 44845
+1600996231258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600996235704	geckodriver	INFO	Listening on 127.0.0.1:35663
+1600996235712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJngLor"
+
+(firefox:15555): Gtk-WARNING **: 02:10:35.756: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15662): Gtk-WARNING **: 02:10:37.536: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15678): Gtk-WARNING **: 02:10:37.750: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:15748): Gtk-WARNING **: 02:10:39.786: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600996240253	Marionette	INFO	Listening on port 35101
+1600996240349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600996245178	geckodriver	INFO	Listening on 127.0.0.1:37091
+1600996245214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeyLNYp"
+
+(firefox:15788): Gtk-WARNING **: 02:10:45.287: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15911): Gtk-WARNING **: 02:10:47.631: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15930): Gtk-WARNING **: 02:10:47.877: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:16000): Gtk-WARNING **: 02:10:50.806: Locale not supported by C library.
+	Using the fallback 'C' locale.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1600996257800	Marionette	INFO	Stopped listening on port 41487
+1600996999956	geckodriver	INFO	Listening on 127.0.0.1:60677
+1600996999962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLMSimH"
+
+(firefox:16689): Gtk-WARNING **: 02:23:19.986: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16802): Gtk-WARNING **: 02:23:21.364: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16820): Gtk-WARNING **: 02:23:21.514: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:16884): Gtk-WARNING **: 02:23:23.477: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997003720	Marionette	INFO	Listening on port 39059
+1600997003777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997021525	Marionette	INFO	Stopped listening on port 39059
+1600997041447	geckodriver	INFO	Listening on 127.0.0.1:59617
+1600997041453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejNsPP3"
+
+(firefox:16953): Gtk-WARNING **: 02:24:01.473: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:17064): Gtk-WARNING **: 02:24:02.779: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:17083): Gtk-WARNING **: 02:24:02.935: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:17148): Gtk-WARNING **: 02:24:04.977: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997045176	Marionette	INFO	Listening on port 39931
+1600997045276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997108299	Marionette	INFO	Stopped listening on port 39931
+1600997184475	geckodriver	INFO	Listening on 127.0.0.1:48249
+1600997184480	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledK7twe"
+
+(firefox:17327): Gtk-WARNING **: 02:26:24.501: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:17435): Gtk-WARNING **: 02:26:25.811: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:17451): Gtk-WARNING **: 02:26:25.966: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:17517): Gtk-WARNING **: 02:26:27.354: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600997188023	Marionette	INFO	Listening on port 38449
+1600997188100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997218533	Marionette	INFO	Stopped listening on port 38449
+1600997511674	geckodriver	INFO	Listening on 127.0.0.1:57427
+1600997511678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevjVRrG"
+
+(firefox:17675): Gtk-WARNING **: 02:31:51.699: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:17795): Gtk-WARNING **: 02:31:53.507: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:17814): Gtk-WARNING **: 02:31:53.665: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:17882): Gtk-WARNING **: 02:31:55.245: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997515403	Marionette	INFO	Listening on port 45115
+1600997515526	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1600997535815	Marionette	INFO	Stopped listening on port 45115
+1600997658310	geckodriver	INFO	Listening on 127.0.0.1:39257
+1600997658322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7lKJKZ"
+
+(firefox:18015): Gtk-WARNING **: 02:34:18.378: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:18116): Gtk-WARNING **: 02:34:19.681: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:18135): Gtk-WARNING **: 02:34:19.834: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18196): Gtk-WARNING **: 02:34:21.163: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600997661890	Marionette	INFO	Listening on port 36475
+1600997661942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997683891	Marionette	INFO	Stopped listening on port 36475
+1600997746003	geckodriver	INFO	Listening on 127.0.0.1:46021
+1600997746009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZIbM5P"
+
+(firefox:18301): Gtk-WARNING **: 02:35:46.029: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:18413): Gtk-WARNING **: 02:35:47.810: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:18432): Gtk-WARNING **: 02:35:47.988: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:18499): Gtk-WARNING **: 02:35:49.533: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997749708	Marionette	INFO	Listening on port 34557
+1600997749734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997776143	Marionette	INFO	Stopped listening on port 34557
+1600997806955	geckodriver	INFO	Listening on 127.0.0.1:52825
+1600997806960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletikwwV"
+
+(firefox:18577): Gtk-WARNING **: 02:36:46.980: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:18691): Gtk-WARNING **: 02:36:48.751: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:18708): Gtk-WARNING **: 02:36:48.912: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18772): Gtk-WARNING **: 02:36:50.007: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600997810535	Marionette	INFO	Listening on port 44481
+1600997810573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997840254	Marionette	INFO	Stopped listening on port 44481
+1600997855713	geckodriver	INFO	Listening on 127.0.0.1:59205
+1600997855717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles8DHRu"
+
+(firefox:18843): Gtk-WARNING **: 02:37:35.739: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:18965): Gtk-WARNING **: 02:37:37.046: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:18984): Gtk-WARNING **: 02:37:37.208: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:19050): Gtk-WARNING **: 02:37:39.023: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997859191	Marionette	INFO	Listening on port 46299
+1600997859258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997880521	geckodriver	INFO	Listening on 127.0.0.1:42869
+1600997880527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile28r9yt"
+
+(firefox:19161): Gtk-WARNING **: 02:38:00.554: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:19286): Gtk-WARNING **: 02:38:02.073: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:19304): Gtk-WARNING **: 02:38:02.235: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:19387): Gtk-WARNING **: 02:38:04.087: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997884316	Marionette	INFO	Listening on port 33289
+1600997884352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997887906	geckodriver	INFO	Listening on 127.0.0.1:43187
+1600997887911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejyiwzo"
+
+(firefox:19425): Gtk-WARNING **: 02:38:07.957: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1600997888772	Marionette	INFO	Stopped listening on port 33289
+
+(/usr/lib/firefox/firefox:19566): Gtk-WARNING **: 02:38:09.939: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:19582): Gtk-WARNING **: 02:38:10.115: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:19652): Gtk-WARNING **: 02:38:11.844: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997892080	Marionette	INFO	Listening on port 34953
+1600997892126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600997895711	geckodriver	INFO	Listening on 127.0.0.1:53741
+1600997895721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUSW8it"
+
+(firefox:19690): Gtk-WARNING **: 02:38:15.752: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997897224	Marionette	INFO	Stopped listening on port 34953
+
+(/usr/lib/firefox/firefox:19838): Gtk-WARNING **: 02:38:17.712: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:19854): Gtk-WARNING **: 02:38:17.902: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:19920): Gtk-WARNING **: 02:38:19.674: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600997899891	Marionette	INFO	Listening on port 45447
+1600997899951	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1600998057621	geckodriver	INFO	Listening on 127.0.0.1:55099
+1600998057627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVoQCz4"
+
+(firefox:20025): Gtk-WARNING **: 02:40:57.648: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:20133): Gtk-WARNING **: 02:40:58.980: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:20151): Gtk-WARNING **: 02:40:59.119: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:20215): Gtk-WARNING **: 02:41:00.892: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600998061043	Marionette	INFO	Listening on port 38131
+1600998061137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600998102427	Marionette	INFO	Stopped listening on port 38131
+1600998756324	geckodriver	INFO	Listening on 127.0.0.1:59599
+1600998756337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile93cILh"
+
+(firefox:20687): Gtk-WARNING **: 02:52:36.390: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:20798): Gtk-WARNING **: 02:52:38.260: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:20814): Gtk-WARNING **: 02:52:38.422: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:20880): Gtk-WARNING **: 02:52:39.903: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600998760748	Marionette	INFO	Listening on port 44995
+1600998760770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600998779877	Marionette	INFO	Stopped listening on port 44995
+1600998795902	geckodriver	INFO	Listening on 127.0.0.1:58823
+1600998795907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexofcmM"
+
+(firefox:20945): Gtk-WARNING **: 02:53:15.949: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:21057): Gtk-WARNING **: 02:53:17.248: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:21075): Gtk-WARNING **: 02:53:17.412: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21139): Gtk-WARNING **: 02:53:18.600: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1600998798652	Marionette	INFO	Listening on port 34041
+1600998798821	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600998844572	Marionette	INFO	Stopped listening on port 34041
+1600998951018	geckodriver	INFO	Listening on 127.0.0.1:53027
+1600998951024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWzQ3KY"
+
+(firefox:21296): Gtk-WARNING **: 02:55:51.046: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:21403): Gtk-WARNING **: 02:55:52.394: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:21419): Gtk-WARNING **: 02:55:52.584: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:21484): Gtk-WARNING **: 02:55:54.070: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600998954682	Marionette	INFO	Listening on port 46339
+1600998954754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600999077755	Marionette	INFO	Stopped listening on port 46339
+1601038756605	geckodriver	INFO	Listening on 127.0.0.1:38621
+1601038756610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel34sAa"
+
+(firefox:23374): Gtk-WARNING **: 13:59:16.631: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:23490): Gtk-WARNING **: 13:59:17.913: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:23509): Gtk-WARNING **: 13:59:18.061: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:23574): Gtk-WARNING **: 13:59:19.587: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601038759744	Marionette	INFO	Listening on port 46091
+1601038759848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 143: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1601038794151	Marionette	INFO	Stopped listening on port 46091
+1601039035706	geckodriver	INFO	Listening on 127.0.0.1:44937
+1601039035711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIzqGs5"
+
+(firefox:23723): Gtk-WARNING **: 14:03:55.731: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:23836): Gtk-WARNING **: 14:03:57.018: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:23852): Gtk-WARNING **: 14:03:57.168: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:23917): Gtk-WARNING **: 14:03:58.630: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601039039305	Marionette	INFO	Listening on port 38153
+1601039039329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601039423355	Marionette	INFO	Stopped listening on port 38153
+1601039792925	geckodriver	INFO	Listening on 127.0.0.1:41741
+1601039792930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletno99v"
+
+(firefox:24372): Gtk-WARNING **: 14:16:32.956: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:24487): Gtk-WARNING **: 14:16:34.782: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:24503): Gtk-WARNING **: 14:16:34.938: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:24573): Gtk-WARNING **: 14:16:36.495: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601039796638	Marionette	INFO	Listening on port 45473
+1601039796656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601039807170	geckodriver	INFO	Listening on 127.0.0.1:57737
+1601039807180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD3VOTp"
+
+(firefox:24622): Gtk-WARNING **: 14:16:47.260: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:24731): Gtk-WARNING **: 14:16:49.484: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:24750): Gtk-WARNING **: 14:16:49.682: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:24815): Gtk-WARNING **: 14:16:51.361: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601039811536	Marionette	INFO	Listening on port 34523
+1601039811630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601039815896	geckodriver	INFO	Listening on 127.0.0.1:49617
+1601039815902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5cuoZk"
+
+(firefox:24857): Gtk-WARNING **: 14:16:55.928: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:24968): Gtk-WARNING **: 14:16:57.991: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:24984): Gtk-WARNING **: 14:16:58.175: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:25056): Gtk-WARNING **: 14:16:59.814: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601039820017	Marionette	INFO	Listening on port 43731
+1601039820137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601039825852	geckodriver	INFO	Listening on 127.0.0.1:60507
+1601039825869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVtpUbL"
+
+(firefox:25110): Gtk-WARNING **: 14:17:05.917: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:25218): Gtk-WARNING **: 14:17:07.542: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:25237): Gtk-WARNING **: 14:17:07.710: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:25310): Gtk-WARNING **: 14:17:09.435: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601039829590	Marionette	INFO	Listening on port 44547
+1601039829694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601039835547	geckodriver	INFO	Listening on 127.0.0.1:40925
+1601039835552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZBzIux"
+
+(firefox:25351): Gtk-WARNING **: 14:17:15.574: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:25472): Gtk-WARNING **: 14:17:16.884: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:25491): Gtk-WARNING **: 14:17:17.050: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:25559): Gtk-WARNING **: 14:17:18.538: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601039838734	Marionette	INFO	Listening on port 42557
+1601039838785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601039843433	geckodriver	INFO	Listening on 127.0.0.1:47789
+1601039843441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTXamfR"
+
+(firefox:25601): Gtk-WARNING **: 14:17:23.464: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:25719): Gtk-WARNING **: 14:17:25.388: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:25735): Gtk-WARNING **: 14:17:25.544: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:25808): Gtk-WARNING **: 14:17:27.293: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601039847461	Marionette	INFO	Listening on port 33545
+1601039847561	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601048531764	geckodriver	INFO	Listening on 127.0.0.1:35229
+1601048532772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMQnWeK"
+
+(firefox:1747): Gtk-WARNING **: 16:42:12.800: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:1871): Gtk-WARNING **: 16:42:14.075: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:1933): Gtk-WARNING **: 16:42:14.218: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:2115): Gtk-WARNING **: 16:42:15.703: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601048535907	Marionette	INFO	Listening on port 39521
+1601048535989	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601048951534	geckodriver	INFO	Listening on 127.0.0.1:39571
+1601048951538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDW0X7x"
+
+(firefox:2421): Gtk-WARNING **: 16:49:11.558: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:2571): Gtk-WARNING **: 16:49:12.880: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:2588): Gtk-WARNING **: 16:49:13.028: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2652): Gtk-WARNING **: 16:49:14.166: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601048954281	Marionette	INFO	Listening on port 46077
+1601048954403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601048978425	Marionette	INFO	Stopped listening on port 46077
+1601049898230	geckodriver	INFO	Listening on 127.0.0.1:35303
+1601049898238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebLJJSs"
+
+(firefox:3062): Gtk-WARNING **: 17:04:58.259: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:3188): Gtk-WARNING **: 17:04:59.656: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:3207): Gtk-WARNING **: 17:04:59.806: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3269): Gtk-WARNING **: 17:05:01.173: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601049901839	Marionette	INFO	Listening on port 45301
+1601049901881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601050033619	Marionette	INFO	Stopped listening on port 45301
+1601050036212	Marionette	INFO	Stopped listening on port 39521
+1601050078391	geckodriver	INFO	Listening on 127.0.0.1:39035
+1601050078402	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGhELHr"
+
+(firefox:3446): Gtk-WARNING **: 17:07:58.429: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:3585): Gtk-WARNING **: 17:08:00.052: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:3610): Gtk-WARNING **: 17:08:00.418: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:3670): Gtk-WARNING **: 17:08:01.945: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601050082191	Marionette	INFO	Listening on port 34223
+1601050082226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601050915287	Marionette	INFO	Stopped listening on port 34223
+1601050918769	geckodriver	INFO	Listening on 127.0.0.1:55413
+1601050918774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIlCsEE"
+
+(firefox:4065): Gtk-WARNING **: 17:21:58.795: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:4188): Gtk-WARNING **: 17:22:00.112: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:4207): Gtk-WARNING **: 17:22:00.271: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:4276): Gtk-WARNING **: 17:22:01.701: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601050921943	Marionette	INFO	Listening on port 40989
+1601050921983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1601051034640	geckodriver	INFO	Listening on 127.0.0.1:44717
+1601051034645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZFpHr9"
+
+(firefox:4356): Gtk-WARNING **: 17:23:54.666: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:4480): Gtk-WARNING **: 17:23:55.917: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:4499): Gtk-WARNING **: 17:23:56.091: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:4565): Gtk-WARNING **: 17:23:57.579: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601051037746	Marionette	INFO	Listening on port 39699
+1601051037770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601052374541	geckodriver	INFO	Listening on 127.0.0.1:33913
+1601052374546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelWGwda"
+
+(firefox:5158): Gtk-WARNING **: 17:46:14.576: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5260): Gtk-WARNING **: 17:46:15.966: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5279): Gtk-WARNING **: 17:46:16.128: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:5344): Gtk-WARNING **: 17:46:17.654: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601052377871	Marionette	INFO	Listening on port 37159
+1601052377979	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601052394685	geckodriver	INFO	Listening on 127.0.0.1:60571
+1601052394689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile96MeER"
+
+(firefox:5454): Gtk-WARNING **: 17:46:34.722: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5636): Gtk-WARNING **: 17:46:36.174: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5645): Gtk-WARNING **: 17:46:36.726: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5715): Gtk-WARNING **: 17:46:37.741: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601052398679	Marionette	INFO	Listening on port 37931
+1601052398705	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601052407629	geckodriver	INFO	Listening on 127.0.0.1:52139
+1601052407633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilencfUdj"
+
+(firefox:5787): Gtk-WARNING **: 17:46:47.671: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5889): Gtk-WARNING **: 17:46:49.002: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:5908): Gtk-WARNING **: 17:46:49.169: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:5975): Gtk-WARNING **: 17:46:50.780: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601052410964	Marionette	INFO	Listening on port 41459
+1601052411049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601052412520	Marionette	INFO	Stopped listening on port 41459
+1601052417585	Marionette	INFO	Stopped listening on port 37931
+1601052418680	Marionette	INFO	Stopped listening on port 37159
+1601052455727	Marionette	INFO	Stopped listening on port 39699
+1601054355000	geckodriver	INFO	Listening on 127.0.0.1:35183
+1601054356008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEsFpxJ"
+
+(firefox:10304): Gtk-WARNING **: 18:19:16.033: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:10429): Gtk-WARNING **: 18:19:17.410: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:10448): Gtk-WARNING **: 18:19:17.573: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10507): Gtk-WARNING **: 18:19:19.178: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054360023	Marionette	INFO	Listening on port 39875
+1601054360134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054370301	Marionette	INFO	Stopped listening on port 39875
+1601054371121	geckodriver	INFO	Listening on 127.0.0.1:52713
+1601054371125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL3HXp6"
+
+(firefox:10580): Gtk-WARNING **: 18:19:31.147: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:10694): Gtk-WARNING **: 18:19:32.470: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:10710): Gtk-WARNING **: 18:19:32.619: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:10774): Gtk-WARNING **: 18:19:34.107: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054374820	Marionette	INFO	Listening on port 40345
+1601054374855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054389603	Marionette	INFO	Stopped listening on port 40345
+1601054390413	geckodriver	INFO	Listening on 127.0.0.1:60039
+1601054390418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8XWY7A"
+
+(firefox:10846): Gtk-WARNING **: 18:19:50.438: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:10965): Gtk-WARNING **: 18:19:51.790: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:10984): Gtk-WARNING **: 18:19:51.937: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11044): Gtk-WARNING **: 18:19:53.446: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054394127	Marionette	INFO	Listening on port 42255
+1601054394159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054407910	Marionette	INFO	Stopped listening on port 42255
+1601054408613	geckodriver	INFO	Listening on 127.0.0.1:44243
+1601054408618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZsd1EJ"
+
+(firefox:11139): Gtk-WARNING **: 18:20:08.649: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11249): Gtk-WARNING **: 18:20:09.955: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11268): Gtk-WARNING **: 18:20:10.123: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11332): Gtk-WARNING **: 18:20:11.628: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054412313	Marionette	INFO	Listening on port 37089
+1601054412350	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054425402	Marionette	INFO	Stopped listening on port 37089
+1601054426091	geckodriver	INFO	Listening on 127.0.0.1:36405
+1601054426095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenbnlo6"
+
+(firefox:11397): Gtk-WARNING **: 18:20:26.115: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11503): Gtk-WARNING **: 18:20:27.371: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11522): Gtk-WARNING **: 18:20:27.561: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11584): Gtk-WARNING **: 18:20:29.067: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054429734	Marionette	INFO	Listening on port 35625
+1601054429817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054440502	Marionette	INFO	Stopped listening on port 35625
+1601054441224	geckodriver	INFO	Listening on 127.0.0.1:40573
+1601054441228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqfFxRR"
+
+(firefox:11656): Gtk-WARNING **: 18:20:41.251: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11806): Gtk-WARNING **: 18:20:42.760: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:11822): Gtk-WARNING **: 18:20:42.952: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:11888): Gtk-WARNING **: 18:20:44.467: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054445180	Marionette	INFO	Listening on port 35289
+1601054445251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054455087	Marionette	INFO	Stopped listening on port 35289
+1601054455810	geckodriver	INFO	Listening on 127.0.0.1:54727
+1601054455816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI85lbH"
+
+(firefox:11957): Gtk-WARNING **: 18:20:55.842: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12083): Gtk-WARNING **: 18:20:57.142: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12102): Gtk-WARNING **: 18:20:57.310: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12162): Gtk-WARNING **: 18:20:58.781: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054459557	Marionette	INFO	Listening on port 46285
+1601054459641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054469913	Marionette	INFO	Stopped listening on port 46285
+1601054470645	geckodriver	INFO	Listening on 127.0.0.1:50899
+1601054470649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGEUOCO"
+
+(firefox:12231): Gtk-WARNING **: 18:21:10.669: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12344): Gtk-WARNING **: 18:21:12.024: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12363): Gtk-WARNING **: 18:21:12.169: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12426): Gtk-WARNING **: 18:21:14.244: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054475045	Marionette	INFO	Listening on port 38407
+1601054475075	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054484467	Marionette	INFO	Stopped listening on port 38407
+1601054485166	geckodriver	INFO	Listening on 127.0.0.1:37593
+1601054485170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Xts13"
+
+(firefox:12496): Gtk-WARNING **: 18:21:25.191: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12610): Gtk-WARNING **: 18:21:26.475: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12629): Gtk-WARNING **: 18:21:26.621: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12690): Gtk-WARNING **: 18:21:28.129: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054488938	Marionette	INFO	Listening on port 39275
+1601054488995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054499952	Marionette	INFO	Stopped listening on port 39275
+1601054500661	geckodriver	INFO	Listening on 127.0.0.1:59517
+1601054500665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekgnGd8"
+
+(firefox:12763): Gtk-WARNING **: 18:21:40.685: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12875): Gtk-WARNING **: 18:21:42.037: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:12891): Gtk-WARNING **: 18:21:42.203: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:12955): Gtk-WARNING **: 18:21:43.740: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601054504450	Marionette	INFO	Listening on port 37919
+1601054504485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601054515684	Marionette	INFO	Stopped listening on port 37919
+1601056542575	geckodriver	INFO	Listening on 127.0.0.1:41301
+1601056542586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledwiGlo"
+
+(firefox:14091): Gtk-WARNING **: 18:55:42.628: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:14247): Gtk-WARNING **: 18:55:44.591: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:14266): Gtk-WARNING **: 18:55:44.804: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:14333): Gtk-WARNING **: 18:55:46.700: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056546972	Marionette	INFO	Listening on port 40237
+1601056547025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056556812	Marionette	INFO	Stopped listening on port 40237
+1601056557705	geckodriver	INFO	Listening on 127.0.0.1:35051
+1601056557709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2W3b6B"
+
+(firefox:14418): Gtk-WARNING **: 18:55:57.739: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:14541): Gtk-WARNING **: 18:55:59.409: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:14556): Gtk-WARNING **: 18:55:59.589: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:14634): Gtk-WARNING **: 18:56:01.613: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056562029	Marionette	INFO	Listening on port 39937
+1601056562046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056572989	Marionette	INFO	Stopped listening on port 39937
+1601056573800	geckodriver	INFO	Listening on 127.0.0.1:43253
+1601056573806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegbeu7A"
+
+(firefox:14721): Gtk-WARNING **: 18:56:13.841: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:14847): Gtk-WARNING **: 18:56:15.460: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:14863): Gtk-WARNING **: 18:56:15.707: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:14942): Gtk-WARNING **: 18:56:17.502: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056577852	Marionette	INFO	Listening on port 44035
+1601056577932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056590415	Marionette	INFO	Stopped listening on port 44035
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601056591952	geckodriver	INFO	Listening on 127.0.0.1:41367
+1601056591965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebJG4Jr"
+
+(firefox:15034): Gtk-WARNING **: 18:56:32.005: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15182): Gtk-WARNING **: 18:56:33.626: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15198): Gtk-WARNING **: 18:56:33.866: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:15274): Gtk-WARNING **: 18:56:35.809: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056595952	Marionette	INFO	Listening on port 33497
+1601056595986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056614770	Marionette	INFO	Stopped listening on port 33497
+1601056615543	geckodriver	INFO	Listening on 127.0.0.1:46095
+1601056615548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4gqiGR"
+
+(firefox:15367): Gtk-WARNING **: 18:56:55.573: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15483): Gtk-WARNING **: 18:56:57.124: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15502): Gtk-WARNING **: 18:56:57.349: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:15578): Gtk-WARNING **: 18:56:59.267: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056619601	Marionette	INFO	Listening on port 43209
+1601056619676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056635514	Marionette	INFO	Stopped listening on port 43209
+1601056636300	geckodriver	INFO	Listening on 127.0.0.1:53141
+1601056636306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenMRlg8"
+
+(firefox:15681): Gtk-WARNING **: 18:57:16.334: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15793): Gtk-WARNING **: 18:57:17.887: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:15810): Gtk-WARNING **: 18:57:18.074: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:15875): Gtk-WARNING **: 18:57:19.449: Locale not supported by C library.
+	Using the fallback 'C' locale.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1601056640442	Marionette	INFO	Listening on port 35645
+1601056640532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056660657	Marionette	INFO	Stopped listening on port 35645
+1601056661690	geckodriver	INFO	Listening on 127.0.0.1:47063
+1601056661696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileENXexk"
+
+(firefox:15976): Gtk-WARNING **: 18:57:41.724: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16080): Gtk-WARNING **: 18:57:43.270: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16096): Gtk-WARNING **: 18:57:43.455: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:16170): Gtk-WARNING **: 18:57:45.366: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056665621	Marionette	INFO	Listening on port 37211
+1601056665718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056681351	Marionette	INFO	Stopped listening on port 37211
+1601056682209	geckodriver	INFO	Listening on 127.0.0.1:59047
+1601056683213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKgzQL6"
+
+(firefox:16258): Gtk-WARNING **: 18:58:03.241: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16368): Gtk-WARNING **: 18:58:04.907: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16384): Gtk-WARNING **: 18:58:05.119: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:16450): Gtk-WARNING **: 18:58:06.908: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056687078	Marionette	INFO	Listening on port 36125
+1601056687130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056706985	Marionette	INFO	Stopped listening on port 36125
+1601056707819	geckodriver	INFO	Listening on 127.0.0.1:49195
+1601056707825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejxF3aY"
+
+(firefox:16543): Gtk-WARNING **: 18:58:27.855: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16666): Gtk-WARNING **: 18:58:29.448: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16682): Gtk-WARNING **: 18:58:29.636: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:16752): Gtk-WARNING **: 18:58:31.544: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056711726	Marionette	INFO	Listening on port 35939
+1601056711779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056722904	Marionette	INFO	Stopped listening on port 35939
+1601056723676	geckodriver	INFO	Listening on 127.0.0.1:35175
+1601056723680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilethilCH"
+
+(firefox:16846): Gtk-WARNING **: 18:58:43.724: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16930): Gtk-WARNING **: 18:58:45.390: Locale not supported by C library.
+	Using the fallback 'C' locale.
+
+(/usr/lib/firefox/firefox:16946): Gtk-WARNING **: 18:58:45.638: Locale not supported by C library.
+	Using the fallback 'C' locale.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+
+(/usr/lib/firefox/firefox:17022): Gtk-WARNING **: 18:58:47.643: Locale not supported by C library.
+	Using the fallback 'C' locale.
+1601056727791	Marionette	INFO	Listening on port 39307
+1601056727811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+JavaScript warning: https://thepiratebay.org/static/main.js, line 50: unreachable code after return statement
+1601056754404	Marionette	INFO	Stopped listening on port 39307
